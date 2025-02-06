@@ -12,7 +12,7 @@ img {
 </head>
 <body>
 
-<p><img src="kuromi.png" width="100" 
+<p><img src="kuromi.gif" width="100" 
 height="140">
 This is some text. This is some text. 
 This is some text. This is some text. This is 
