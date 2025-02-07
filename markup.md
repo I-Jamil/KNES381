@@ -1,7 +1,9 @@
 <html>
 <h1 align="center">Markup Assignment</h1>
 
-<code style="color : red">BATMAN</code>
+$${\color{red}BATMAN}$$
+
+<h1 style="color: red">& Robin</h1>
 
 <img align="right" src="https://cdn-useast1.kapwing.com/static/templates/batman-slapping-robin-meme-template-full-235a9b65.webp" style="max-width: 800px; height: 196px; margin: 0px; width: 202px">
 
