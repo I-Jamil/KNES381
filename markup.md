@@ -1,9 +1,8 @@
 <html>
 <h1 align="center">Markup Assignment</h1>
 
-<html>
 
-<img align="right" width="200" src="/c/Users/ijami/Picturs/Kuromi.gif" />
+<img align="right" src="/c/Users/ijami/Picturs/Kuromi.gif">
 
 <body>
 
@@ -20,3 +19,4 @@ some text.
 </p>
 <body>
 
+<html>
