@@ -3,7 +3,7 @@
 
 <html>
 
-<img align="right" width="200" src=kuromi.jpg" />
+<img align="right" width="200" src="/c/Users/ijami/Picturs/Kuromi.gif" />
 
 <body>
 
