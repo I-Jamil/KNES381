@@ -3,7 +3,7 @@
 
 $${\color{red}Iqra  Jamil}$$
 
-<h4>&#7500;O<sub>2</sub> is a measure of oxygen capacity.</h4> 
+<h4>V&#775;O<sub>2</sub> is a measure of oxygen capacity.</h4> 
 
 <img align="right" src="https://cdn-useast1.kapwing.com/static/templates/batman-slapping-robin-meme-template-full-235a9b65.webp" style="max-width: 800px; height: 196px; margin: 0px; width: 202px">
 
