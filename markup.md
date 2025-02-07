@@ -44,5 +44,5 @@ This is some text. This is some text. This is some text. This is some text. This
 <body>
 
 
-<a href="./c/Users/ijami/Documents/KNES381/Folder/coquette-hampter.gif>
+<a href="https://github.com/I-Jamil/KNES381/blob/9c49785ba59576a3a57c697ec582b19776a24a1c/Folder/coquette-hampter.gif">See Image Here!</a>
 <html>
