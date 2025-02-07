@@ -6,7 +6,7 @@
 
 <p>
 This is some text. This is some text. 
-<text style="color: red">BATMAN</text>
+<text color=red>BATMAN</text>
 This is some text. This is some text. This is 
 some text. This is some text. This is some 
 text. This is some text. This is some text. 
