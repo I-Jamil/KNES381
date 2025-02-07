@@ -2,7 +2,7 @@
 <h1 align="center">Markup Assignment</h1>
 
 
-<img align="right" src="/c/Users/ijami/Picturs/Kuromi.gif">
+<img align="right" src="Kuromi.gif">
 
 <body>
 
