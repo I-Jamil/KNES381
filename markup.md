@@ -1,12 +1,13 @@
 <html>
 <h1 align="center">Markup Assignment</h1>
 
-$${\color{red}Iqra  Jamil}$$
+$${\color{purple}Iqra  Jamil}$$
 
 <h4>V&#775;O<sub>2</sub> is a measure of oxygen consumption.</h4> 
 
 <img align="right" src="https://cdn-useast1.kapwing.com/static/templates/batman-slapping-robin-meme-template-full-235a9b65.webp" style="max-width: 800px; height: 196px; margin: 0px; width: 202px">
 
+<img align="right" src="https://media.tenor.com/0dUwC5nmPxEAAAAM/batman-tears.gif" style="max-width: 220px; height: 163px; margin: 0px; width: 220px"> 
 
 <body>
 
