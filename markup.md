@@ -1,7 +1,7 @@
 <html>
 <h1 align="center">Markup Assignment</h1>
 
-$${\color{blue}Iqra  Jamil}$$
+$${\color{pink}Iqra  Jamil}$$
 
 <h4>V&#775;O<sub>2</sub> is a measure of oxygen consumption.</h4> 
 
